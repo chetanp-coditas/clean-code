@@ -1,0 +1,14 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+#weatherContainer {
+  margin-top: 20px;
+}
